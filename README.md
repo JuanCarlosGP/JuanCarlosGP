@@ -6,7 +6,7 @@
 
 
 <div align="center">
-    <table style="border-collapse: collapse;">
+    <table style="border: none; border-collapse: collapse;">
         <tr style="border: none;">
             <td style="border: none; padding: 0; vertical-align: top;">
                 <img width=390 src="https://github-readme-stats.vercel.app/api?username=juancarlosgp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
