@@ -27,7 +27,7 @@
 ##
 <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake.svg" />
+ ![snake gif](https://github.com/JuanCarlosGP/JuanCarlosGP/blob/output/github-contribution-grid-snake.gif)
   
   <br/><br/><br/>
 
