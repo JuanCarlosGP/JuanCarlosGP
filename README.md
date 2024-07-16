@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **My Amazon Trademark**
 
-- 🌱 I’m currently learning **AI and Big Data**
+- 🌱 I’m currently learning **Codding**
 
 - 👯 I’m looking to collaborate on **Developer Job**
 
