@@ -2,6 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👻;+I'm+Juan+Carlos+Gutiérrez!;" />
 </h1>
  ![snake gif](https://github.com/JuanCarlosGP/JuanCarlosGP/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 ###
 
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=juancarlosgp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
