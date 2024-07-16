@@ -24,6 +24,12 @@
 - 📫 How to reach me **juancarlosgp212@gmail.com**
 
 - ⚡ Fun fact **There are about 5,000 species of sea sponges.**
+##
+<h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JuanCarlosGP/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
