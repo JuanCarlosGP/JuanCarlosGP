@@ -6,12 +6,12 @@
 
 
 <div align="center">
-    <table style="border: none;">
+    <table style="border-collapse: collapse;">
         <tr style="border: none;">
-            <td style="border: none; vertical-align: top;">
+            <td style="border: none; padding: 0; vertical-align: top;">
                 <img width=390 src="https://github-readme-stats.vercel.app/api?username=juancarlosgp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
             </td>
-            <td style="border: none; vertical-align: top;">
+            <td style="border: none; padding: 0; vertical-align: top;">
                 <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosgp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
             </td>
         </tr>
