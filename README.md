@@ -29,8 +29,6 @@
   <br>
 
  ![snake gif](https://github.com/JuanCarlosGP/JuanCarlosGP/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  <br/><br/><br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
