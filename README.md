@@ -28,7 +28,7 @@
 
 - 🤝 I’m looking for help with **Small projects**
 
-- 👨‍💻 All of my projects are available at [https://juancarlosgp.github.io/TICTACTOE_React/](https://juancarlosgp.github.io/TICTACTOE_React/)
+- 👨‍💻 All of my projects are available at [[https://juancarlosgp.github.io/TICTACTOE_React/](https://juancarlosgp.github.io/TICTACTOE_React/)](https://juancarlosgpcv.vercel.app/)
 
 - 📫 How to reach me **juancarlosgp212@gmail.com**
 
