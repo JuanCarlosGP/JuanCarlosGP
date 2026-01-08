@@ -5,7 +5,7 @@
 ###
 
 
-<div align="center">
+<!-- <div align="center">
     <table style="border: none; border-collapse: collapse;">
         <tr style="border: none;">
             <td style="border: none; padding: 0; vertical-align: top;">
@@ -16,7 +16,7 @@
             </td>
         </tr>
     </table>
-</div>
+</div> -->
 
 ###
 
