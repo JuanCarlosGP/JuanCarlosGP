@@ -1,48 +1,41 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👻;+I'm+Juan+Carlos+Gutiérrez!;" />
-</h1>
-
-###
-
-
-<!-- <div align="center">
-    <table style="border: none; border-collapse: collapse;">
-        <tr style="border: none;">
-            <td style="border: none; padding: 0; vertical-align: top;">
-                <img width=390 src="https://github-readme-stats.vercel.app/api?username=juancarlosgp&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-            </td>
-            <td style="border: none; padding: 0; vertical-align: top;">
-                <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancarlosgp&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-            </td>
-        </tr>
-    </table>
-</div> -->
-
-###
-
-- 🔭 I’m currently working on **My Amazon Trademark**
-
-- 🌱 I’m currently learning **Codding**
-
-- 👯 I’m looking to collaborate on **Developer Job**
-
-- 🤝 I’m looking for help with **Small projects**
-
-- 👨‍💻 All of my projects are available at https://juancarlosgpcv.vercel.app/
-
-- 📫 How to reach me **juancarlosgp212@gmail.com**
-
-- ⚡ Fun fact **There are about 5,000 species of sea sponges.**
-##
-<h2>🐍 My Contributions 🐍</h2>
-  <br>
-
- ![snake gif](https://github.com/JuanCarlosGP/JuanCarlosGP/blob/output/github-contribution-grid-snake-dark.svg)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juancarlosgutierrezpesquero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancarlosgutierrezpesquero" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=46&lines=Juan+Carlos+Guti%C3%A9rrez;omarchy+%C2%B7+arch+%C2%B7+web" alt="Juan Carlos Gutiérrez" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+
+```
+juan@omarchy
+------------
+os        omarchy · arch · hyprland
+now       amazon trademark · nlc · domus
+stack     typescript · java · php
+          react · node · spring · tailwind
+          postgres · mysql · mongodb
+mail      juancarlosgp212@gmail.com
+web       juancarlosgpcv.vercel.app
+fact      ~5,000 species of sea sponges
+```
+
+</div>
+
+<p align="center">
+  <a href="https://juancarlosgpcv.vercel.app">web</a>
+  ·
+  <a href="mailto:juancarlosgp212@gmail.com">mail</a>
+  ·
+  <a href="https://www.linkedin.com/in/juancarlosgutierrezpesquero">linkedin</a>
+</p>
+
+<p align="center">
+  <img height="148" src="https://github-readme-stats.vercel.app/api?username=JuanCarlosGP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosGP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=HTML" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake.svg">
+    <img alt="snake eating the contribution grid" src="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
