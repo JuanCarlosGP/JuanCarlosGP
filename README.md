@@ -1,13 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=560&height=50&duration=3500&color=7AA2F7&lines=Juan+Carlos+Gutierrez;omarchy+-+arch+-+web" alt="Juan Carlos Gutiérrez" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=620&height=50&duration=3500&color=7AA2F7&lines=Juan+Carlos+Gutierrez;nlc+-+domus+-+web" alt="Juan Carlos Gutiérrez" />
 </h1>
 
 <div align="center">
 
 ```
-juan@omarchy
-------------
-os        omarchy · arch · hyprland
+juancarlos
+----------
 now       amazon trademark · nlc · domus
 stack     typescript · java · php
           react · node · spring · tailwind
