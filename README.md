@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=560&height=46&lines=Juan+Carlos+Guti%C3%A9rrez;omarchy+%C2%B7+arch+%C2%B7+web" alt="Juan Carlos Gutiérrez" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=560&height=50&duration=3500&color=7AA2F7&lines=Juan+Carlos+Gutierrez;omarchy+-+arch+-+web" alt="Juan Carlos Gutiérrez" />
+</h1>
 
 <div align="center">
 
@@ -28,8 +28,8 @@ fact      ~5,000 species of sea sponges
 </p>
 
 <p align="center">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=JuanCarlosGP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanCarlosGP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=HTML" alt="Top languages" />
+  <img height="148" src="https://github-readme-stats.shion.dev/api?username=JuanCarlosGP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="148" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanCarlosGP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=HTML" alt="Top languages" />
 </p>
 
 <p align="center">
