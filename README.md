@@ -1,40 +1,30 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=620&height=50&duration=3500&color=7AA2F7&lines=Juan+Carlos+Gutierrez;nlc+-+domus+-+web" alt="Juan Carlos Gutiérrez" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👻;+I'm+Juan+Carlos+Gutiérrez!;" />
 </h1>
 
-<div align="center">
+###
 
-```
-juancarlos
-----------
-now       amazon trademark · nlc · domus
-stack     typescript · java · php
-          react · node · spring · tailwind
-          postgres · mysql · mongodb
-mail      juancarlosgp212@gmail.com
-web       juancarlosgpcv.vercel.app
-fact      ~5,000 species of sea sponges
-```
+- 🔭 I’m currently working on **My Amazon Trademark**
 
-</div>
+- 🌱 I’m currently learning **Codding**
 
-<p align="center">
-  <a href="https://juancarlosgpcv.vercel.app">web</a>
-  ·
-  <a href="mailto:juancarlosgp212@gmail.com">mail</a>
-  ·
-  <a href="https://www.linkedin.com/in/juancarlosgutierrezpesquero">linkedin</a>
-</p>
+- 👯 I’m looking to collaborate on **Developer Job**
 
-<p align="center">
-  <img height="148" src="https://github-readme-stats.shion.dev/api?username=JuanCarlosGP&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="148" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JuanCarlosGP&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&hide=HTML" alt="Top languages" />
-</p>
+- 🤝 I’m looking for help with **Small projects**
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating the contribution grid" src="https://raw.githubusercontent.com/JuanCarlosGP/JuanCarlosGP/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+- 👨‍💻 All of my projects are available at https://juancarlosgpcv.vercel.app/
+
+- 📫 How to reach me **juancarlosgp212@gmail.com**
+
+- ⚡ Fun fact **There are about 5,000 species of sea sponges.**
+
+##
+<h2>🐍 My Contributions 🐍</h2>
+  <br>
+
+ ![snake gif](https://github.com/JuanCarlosGP/JuanCarlosGP/blob/output/github-contribution-grid-snake-dark.svg)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/juancarlosgutierrezpesquero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juancarlosgutierrezpesquero" height="30" width="40" /></a>
 </p>
